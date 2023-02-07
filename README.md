@@ -6,11 +6,11 @@
 
 
 # 测试工具
-在讲解正则之前，需要准备一个正则表达式的测试工具。工具有很多，有在线的测试工具，比如[菜鸟工具](https://c.runoob.com/front-end/854/)、[站长该工具](https://tool.chinaz.com/regex)等等。
+在讲解正则之前，需要准备一个正则表达式的测试工具。工具有很多，有在线的测试工具，比如[菜鸟工具](https://c.runoob.com/front-end/854/)、[站长该工具](https://tool.chinaz.com/regex)、[RegExr](https://regexr.com/77o90)等等。
 
-我这里使用IDEA的插件`Regex Tool`（需要付费，试用30天）。
+我使用的是[RegExr](https://regexr.com/77o90)
 
-![image-20230207130808630](https://programtalk-1256529903.cos.ap-beijing.myqcloud.com/202302071308738.png)
+
 
 # 字符类集
 ## 字符集合（Character Set）
