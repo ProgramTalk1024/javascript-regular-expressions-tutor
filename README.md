@@ -20,7 +20,10 @@
 
 # 说明
 
-本文章基于`Javascript`!
+本文章中正则表达式测试基于`PCRE(Perl Compatible Regular Expressions)`，它是一个`Perl`语言库，包括 perl 兼容地正则表达式库。
+
+Java中的正则表达式也是类似于`Perl`,官方文档有说明。
+![](https://programtalk-1256529903.cos.ap-beijing.myqcloud.com/202302082020999.png)
 
 # 字符类集
 ## 字符集合（Character Set）
